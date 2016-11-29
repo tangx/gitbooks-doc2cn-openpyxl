@@ -24,7 +24,7 @@
   + [使用公式](2016-09-16-python-openpyxl-usage.md#使用公式)
   + [合并/拆分单元格](2016-09-16-python-openpyxl-usage.md#合并/拆分单元格)
   + [插入图片](2016-09-16-python-openpyxl-usage.md#插入图片)
-  + [折叠列 (outline)](2016-09-16-python-openpyxl-usage.md#折叠列-(outline))
+  + [折叠列 (outline)](2016-09-16-python-openpyxl-usage.md#折叠列-outline)
 
 ## 图表
 
